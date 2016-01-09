@@ -11,8 +11,7 @@ subtitle: subtitle
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
 
-  Here I chronicle my idiot coding. Yeah, that's pretty much all
-  there is to it. I'm not pretending to anything I don't have.
+  Here I chronicle my idiot coding. I'm not pretending to anything I don't have.
   I've been programming a few years now and I'm still amazed by
   my own idiocy. Hopefully, you can learn from my mistakes here.
 baseurl: "" # the subpath of your site, e.g. /blog
