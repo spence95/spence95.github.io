@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting up a Private Git"
 date:   2016-01-08
-categories: peripheral code stuff
+categories: how to
 ---
 We've been programming this capstone project for a while now on public Github. While Github is a great service, there's just some things you shouldn't
 have up for everyone to see. Since we're making a mobile app, we're gonna have private keys related to publishing the app later. We can't have everyone
