@@ -6,14 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Idiot Coding
-subtitle: subtitle
+title: spence95's blog
+subtitle: Programming
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
 
-  Here I chronicle my idiot coding. I'm not pretending to anything I don't have.
-  I've been programming a few years now and I'm still amazed by
-  my own idiocy. Hopefully, you can learn from my mistakes here.
+  Learning programming principles and practices through real world practice.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: suttsp
