@@ -37,19 +37,25 @@ Everyone will tell you how important it is to keep learning in this profession. 
 
 ## 3. You are the pilot of your career
 
-![Airplane anyone?](/assets/2021-10-09/airplane-850x600.jpeg)
+<p align="center">
+<img src="/assets/2021-10-09/airplane-850x600.jpeg" style="width:400px" />
+</p>
 
 At my job right out of school I found myself tasked with writing an SSIS program to basically automate what an excel spreadsheet was doing (excel driven development???). If you know anything about <a href="https://docs.microsoft.com/en-us/sql/integration-servicessql-server-integration-services?view=sql-server-ver15">SSIS</a> then you'll know it's dreadfully boring to work in, very rigid in what it can do, and not really programming. Lesson 1 above hadn't really sunk into me yet and so I frantically and repeatedly annoyed the crap out of my then-manager to get me <i>real</i>™ programming work. Looking back, I realize now that I could've solved those same problems using programming instead of SSIS and the resulting solution would've been much better. Instead I mistakenly assumed it was someone else's problem to get me the work I wanted to do and thus missed out on the very opportunity I wanted to tackle as it sat right under my nose. As the next few years passed I sought to solve problems with programming while deepening my skills in it. Ultimately I landed an engineering job at AWS. This has led me to believe that most people can alter the course of their careers little by little over time by taking the initiative. 
 
 ## 4. Being deliberate is better than being fast, most of the time
 
-![MEME](/assets/2021-10-09/5pvfup.jpeg)
+<p align="center">
+<img src="/assets/2021-10-09/5pvfup.jpeg" style="width:400px" />
+</p>
 
 Making informed decisions while carefully working towards a goal feels a lot different from just trying to get something done as fast as possible. Businesses typically put pressure on timelines for projects to the point where it feels like the only goal you have is to get something delivered before time runs out. It's taken some time to figure out how to divorce myself from that pressure in order to build something the right way. It's tricky because timelines exist for a reason and you don't want to spin your wheels "gold-plating" something. So how do you know when enough is enough or when not enough is not enough? Well, it's a work in progress and more of an art than a science ;) A rule of thumb I try to stick to is to make sure the code will be stable enough, will scale well enough, and is maintainable (readable and has good logging). Sacrificing too much on any of those things will only waste your time later.
 
 ## 5. Writing maintainable code takes zero added effort
 
-![Will a gif work?](/assets/2021-10-09/1FcKXFz.gif)
+<p align="center">
+<img src="/assets/2021-10-09/1FcKXFz.gif" style="width:400px" />
+</p>
 
 As noted above, ultimately everything you build is for humans. Humans will use your software, humans will read your code, and humans may one day curse your name as they dig through your obtuse code to fix a pesky bug. I've found that you can build the habits of writing maintainable code so that it becomes automatic. These are habits I try to keep: reflecting for two minutes after finishing code on how to make it more readable, actually writing documentation like javadocs or pydocs or even just a one-page long README, building in robust logging, writing unit tests, and using try/catches with custom errors where it makes sense. Getting yourself to the point where this becomes automatic takes sometime but saves you (and others) a lot of heartburn later when things inevitable break as they always do. Once it's automatic, you'll find that you can get things done just as quickly or even quicker than just "code-slinging" it. This is because when you "code-sling" (quickly get something done by taking shortcuts) you give yourself blind spots to the subtleties of the problem you are fixing. All of this other maintainable work helps you get a better grasp of the problem.
 
