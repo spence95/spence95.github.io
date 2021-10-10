@@ -25,7 +25,7 @@ All of these items are things I've learned yes but I also seem to always have to
 
 1. Careers are long
 
-[MEME](/assets/2021-10-09/5pvfrg.jpeg)
+![MEME](/assets/2021-10-09/5pvfrg.jpeg)
 
 Strange to have this as my first lesson learned isn't it? As a newbie (still) to this profession, I can get inside my own head and beat myself up for all the mistakes I make or the things I don't know. I'm sure I'm not alone in this. Assuming a 40 year career, I'm only ~13% of the way through it. I still have a lot of time to leave my mark professionally and that thought helps both motivate me and calm my "programmer-anxiety" Maybe this is just waxing maturity and anyone over 30 years of age will roll their eyes at this one but I find it incredibly helpful to remind short-term brain. Bad days will pass. Bad weeks will pass. Don't focus on external success (promotions or money) but on internal success and growth.
 
