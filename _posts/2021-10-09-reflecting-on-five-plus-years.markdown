@@ -32,7 +32,7 @@ As a newbie (still) to this profession, I can get inside my own head and beat my
 Everyone will tell you how important it is to keep learning in this profession. Less often do people talk about how to learn. I've found that the best way to really learn is to use deliberate practice. This means that you are constantly pushing the boundaries of your knowledge. I remember a metaphor that has solidififed this concept for me from some book or podcast whose name I can't recall. Imagine two people who are learning to play the guitar. They both progress to the point where they can play some of their favorite songs. One of them decides to continue their learning by figuring out how scales work, how guitar solos work, why chords are the way they are, and more. Meanwhile the other continues to just play their favorite songs day after day. The former will go on to be a master at playing the guitar even if both spend the same amount of time practicing. Similarly at work, if you feel too comfortable with your tasks then you are likely becoming the guitar guy who plays nothing but "Wonderwall" at parties. In short, deliberate practice basically means being borderline frustrated all the time (only half-kidding)
 
 <p align="center">
-<img src="/assets/2021-10-09/lnsvz6ghgd031.jpeg" />
+<img src="/assets/2021-10-09/lnsvz6ghgd031.jpeg" style="width:400px" />
 </p>
 
 ## 3. You are the pilot of your career
