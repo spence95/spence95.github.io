@@ -7,7 +7,7 @@ categories: life
 
 <p align="left">
 <img src="/assets/2022-01-14/moses.jpeg" style="width:400px" />
-</p>
+
 
 There's a lot of power to how we think about ourselves. This is, in fact, the entire basis for the most successful type of depression & anxiety therapy <a href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">CBT</a>. How we think creates our impression of reality and everyone's impression of reality is, at best, a little bit off. I'd like to show that how we label ourselves can become reality.
 
@@ -20,7 +20,7 @@ If you believe yourself a software engineer, then you will pursue tasks that a s
 This is also why, almost across the board, religions tend to label us as something more than just human. Take for example some scriptures from the LDS tradition. When God talks to Moses, he frequently uses the term "my son". He is labeling Moses as something divine. You can imagine how thinking about yourself that way can influence how you act. Shortly after this interaction I'm referencing, Satan interacts with Moses. The devil chooses a different approach frequently calling Moses "son of man", in other words, nothing more than the dust of the earth. (See <a href="https://abn.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng">here</a> to read the full story of Moses meeting God and then Satan). It's not just the LDS faith that does this. Mainstream Christianity insists that even though we are fallen creatures, we can become angels.
 
 So all this to say, be careful about labels. Because how you label yourself or loved ones, might actually become true.
-
-<p style="font-size:8px">
+</p>
+<p style="font-size:10px">
 (image taken from public domain here: https://www.nga.gov/collection/art-object-page.4436.html)
 </p>
