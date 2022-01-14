@@ -6,7 +6,7 @@ categories: life
 ---
 
 <p align="left">
-<img src="/assets/2022-01-14/moses.jpeg" style="width:400px" />
+<img src="/assets/2022-01-14/moses.jpeg" style="width:400px; float:left; margin-right: 15px" />
 
 
 There's a lot of power to how we think about ourselves. This is, in fact, the entire basis for the most successful type of depression & anxiety therapy <a href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">CBT</a>. How we think creates our impression of reality and everyone's impression of reality is, at best, a little bit off. I'd like to show that how we label ourselves can become reality.
