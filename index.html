@@ -44,8 +44,9 @@ layout: default
   </header>
 
   <ul class="post-list">
+    <h1>Find my posts below:</h1>
+
     {% for post in site.posts limit:50 %}
-      <h1>Find my posts below:</h1>
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
