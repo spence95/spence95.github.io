@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple is Good"
+title:  "Simple is Good: Jekyll vs Wordpress"
 date:   2016-02-01
 categories: peripheral code stuff
 ---
