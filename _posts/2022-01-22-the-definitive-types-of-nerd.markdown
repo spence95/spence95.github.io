@@ -39,7 +39,7 @@ I'm not afraid to admit that I am, in fact, a dork nerd. Dork nerds are the nerd
 <p>
 <h4>6. Uber nerd</h4>
 <img src="https://images.pexels.com/photos/1564506/pexels-photo-1564506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:400px; float:right; margin-left: 15px" />
-Uber nerds are mythical, much like the unicorn. In theory they exist but a nerd of this stature has yet to be fully documented (to my knowledge). They are the combination of every other nerd category above (but not below). Some say that you become a dork nerd just by being in their presence for longer than 10 minutes. Some also say that they emit an white-gold aura completely blinding to anti-nerds. Nerd prophecy holds that the uber nerds will one day come and elevate world nerdom to the next level.
+Uber nerds are mythical, much like the unicorn. In theory they exist but a nerd of this stature has yet to be fully documented (to my knowledge). They are the combination of every other nerd category above (but not below). Some say that you become a dork nerd just by being in their presence for longer than 10 minutes. Some also say that they emit a white-gold aura completely blinding to anti-nerds. Nerd prophecy holds that the uber nerds will one day come and elevate world nerdom to the next level.
 </p>
 <p>
 <h4>7. Self-proclaimed nerd</h4>
