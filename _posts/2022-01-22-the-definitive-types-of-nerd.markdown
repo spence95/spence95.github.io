@@ -16,6 +16,7 @@ What exactly is a nerd? Online definitions fall short, basically saying that ner
 Presenting the exhaustive list of nerd types:
 </p>
 <p>
+<br/>
 <h4>1. Make-believe nerd</h4>
 This is the classic nerd. Whole swaths of nerds play make believe in various ways, I mean, there's whole factions within this category. You have the D&D nerd, the Trekkie nerd, the Lord of the Rings nerd, cosplay nerds, Potterheads, Magic the Gathering nerds, comic book nerds, board gaming, plus many more. Anyone who obsesses over imagining a more fantastical life is a make-believe nerd. And hey, it's pretty fun (except for Star Trek, that stuff is boring).
 </p>
@@ -32,6 +33,7 @@ Simply put, eccentric hobby nerds are so into a single eccentric hobby so much s
 Video games have become too mainstream to be a nerd category on its own and so we have the upleveld version, the E-sports nerd. These nerds will not only play an inordinate amount of video games, they will also be head-over-heels into e-sports and most likely Twitch. They've got the gaming chair, the gaming mouse, the gaming keyboard, the gaming energy drinks, the gaming headset, and the gaming arteries. As a positive side effect, these nerds tend to be good drivers due to enhanced hand-eye coordination. They also tend to get irrationally upset if you casually throw the phrase "E-sports aren't real sports" out there or if you frequently get their favorite video game name wrong. (I love me some "League of Nations")
 </p>
 <p>
+<img src="https://images.pexels.com/photos/1564506/pexels-photo-1564506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:400px; float:right; margin-left: 15px" />
 <h4>5. Dork nerd</h4>
 I'm not afraid to admit that I am, in fact, a dork nerd. Dork nerds are the nerds that don't fit cleanly into any other category yet they are still nerd somehow. They are born with the destiny of being nerd. It helps to have some physcial characteristic that marks them as a nerd like say, a big head. Often times, dork nerds are just nerds who are incubating for another category like a baby bird ready to hatch from its egg and take flight into its final nerd category. Fly little dork nerd, fly!
 </p>
