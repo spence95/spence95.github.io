@@ -33,12 +33,12 @@ Simply put, eccentric hobby nerds are so into a single eccentric hobby so much s
 Video games have become too mainstream to be a nerd category on its own and so we have the upleveld version, the E-sports nerd. These nerds will not only play an inordinate amount of video games, they will also be head-over-heels into e-sports and most likely Twitch. They've got the gaming chair, the gaming mouse, the gaming keyboard, the gaming energy drinks, the gaming headset, and the gaming arteries. As a positive side effect, these nerds tend to be good drivers due to enhanced hand-eye coordination. They also tend to get irrationally upset if you casually throw the phrase "E-sports aren't real sports" out there or if you frequently get their favorite video game name wrong. (I love me some "League of Nations")
 </p>
 <p>
-<img src="https://images.pexels.com/photos/1564506/pexels-photo-1564506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:400px; float:right; margin-left: 15px" />
 <h4>5. Dork nerd</h4>
 I'm not afraid to admit that I am, in fact, a dork nerd. Dork nerds are the nerds that don't fit cleanly into any other category yet they are still nerd somehow. They are born with the destiny of being nerd. It helps to have some physcial characteristic that marks them as a nerd like say, a big head. Often times, dork nerds are just nerds who are incubating for another category like a baby bird ready to hatch from its egg and take flight into its final nerd category. Fly little dork nerd, fly!
 </p>
 <p>
 <h4>6. Uber nerd</h4>
+<img src="https://images.pexels.com/photos/1564506/pexels-photo-1564506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" style="width:400px; float:right; margin-left: 15px" />
 Uber nerds are mythical, much like the unicorn. In theory they exist but a nerd of this stature has yet to be fully documented (to my knowledge). They are the combination of every other nerd category above (but not below). Some say that you become a dork nerd just by being in their presence for longer than 10 minutes. Some also say that they emit an white-gold aura completely blinding to anti-nerds. Nerd prophecy holds that the uber nerds will one day come and elevate world nerdom to the next level.
 </p>
 <p>
