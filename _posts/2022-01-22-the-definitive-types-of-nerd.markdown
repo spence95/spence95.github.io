@@ -48,36 +48,3 @@ Now we come to the last two categories of nerd, the serfs of the nerd kingdom. T
 These people are so obsessed with being not nerdy that, counter-intuitively, they become nerdy about being not nerdy. Nerds.
 </p>
 
-
-
-nerds
-Fitness nerd: obsess over fitness. Not all gym rats are fitness nerds, there needs to be a certain indescribable nerdiness factor as well
-Make-believe nerd: most common type of nerd, think d and d or trekee
-Dork nerd: no particular reason why they’re nerdy, they just are. Often but not always are nerds incubating for another category
-Eccentic hobby nerd: they are so into a single eccentric hobby so much so that they become nerd no matter what else there is about their lives
-Tech nerd: not just a programmer but obsessed with any techy stuff. Must have built their own pc at least.
-E-sports nerd: video games are too mainstream to be nerdy on their own. You have to also be legitimately into esports and preferably twitch
-Uber nerd: combination of any three of these
-Self proclaimed nerd: not really a nerd but the fact that they want to be is oddly… nerdy
-Not nerd nerd: so not nerdy that they are nerdy about being not nerdy. Nerd.
-
-There's a lot of power to how we think about ourselves. This is, in fact, the entire basis for the most successful type of depression & anxiety therapy <a href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">CBT</a>. How we think creates our impression of reality and everyone's impression of reality is, at best, a little bit off. I'd like to show that how we label ourselves can become reality.
-<br/>
-<br/>
-Imagine a person who thinks they are stupid. I know that's rare these days where everyone considers himself or herself a genius either politically or otherwise. But just consider someone who genuinely believes they just don't have the brains to do complicated stuff. That person carries this belief around whether or not it's true, yet that belief influences how the person behaves. He or she will be much less likely to pursue tasks that enhance intelligence. They will learn less, practice less, or study less because "What's the point if I'm dumb?" floats around in the back of their head. When this carries on long enough, that person will in fact become dumb in reality. Not because he or she was destined to be that way genetically but because they believed it to be the case in the first place.
-<br/>
-<br/>
-The same is true but in reverse.
-<br/>
-<br/>
-If you believe yourself a software engineer, then you will pursue tasks that a software engineer would do thus making you a better software engineer. The same is true for any label we may apply to ourselves or others. 
-<br/>
-<br/>
-This is also why, almost across the board, religions tend to label us as something more than just human. Take for example some scriptures from the LDS tradition. When God talks to Moses, he frequently uses the term "my son". He is labeling Moses as something divine. You can imagine how thinking about yourself that way can influence how you act. Shortly after this interaction I'm referencing, Satan interacts with Moses. The devil chooses a different approach frequently calling Moses "son of man", in other words, nothing more than the dust of the earth. (See <a href="https://abn.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng">here</a> to read the full story of Moses meeting God and then Satan). It's not just the LDS faith that does this. Mainstream Christianity insists that even though we are fallen creatures, we can become angels.
-<br/>
-<br/>
-So all this to say, be careful about labels. Because how you label yourself or loved ones, might actually become true.
-</p>
-<p style="font-size:10px">
-(image taken from public domain here: https://www.nga.gov/collection/art-object-page.4436.html)
-</p>
